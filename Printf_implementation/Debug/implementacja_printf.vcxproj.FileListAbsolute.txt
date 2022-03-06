@@ -1,2 +1,0 @@
-D:\AGH\Semestr 2\Procedurki\Projekty\implementacja_printf\Debug\implementacja_printf.exe
-D:\AGH\Semestr 2\Procedurki\Projekty\implementacja_printf\Debug\implementacja_printf.pdb
